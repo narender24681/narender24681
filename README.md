@@ -45,8 +45,8 @@
 <br/>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=narender24681)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narender24681&layout=compact)](https://github.com/narender24681/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=narender24681&theme=github-dark)](https://git.io/streak-stats)
 
 ![Narender's GitHub stats](https://github-readme-stats.vercel.app/api?username=narender24681&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narender24681&layout=compact&theme=github_dark)](https://github.com/narender24681/github-readme-stats)
