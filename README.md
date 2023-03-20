@@ -1,31 +1,52 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Narender</h1>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=3CE0F7&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B+Myself+Narender+Chepuri+🙏;An+Aspiring+Full+Stack+Developer+From+India" alt="Typing SVG" />
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-
-<!-- ## Connect with me: -->
-<a href="https://www.linkedin.com/in/narender-ch-7b4b9024b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 <br/>
 
-<!-- ## GitHub Views and Followers: -->
-<img src="https://komarev.com/ghpvc/?username=narender24681&label=Profile%20views&color=0e75b6&style=flat" alt="narender24681" /> <img src="https://img.shields.io/github/followers/narender24681?label=Followers&style=social" alt="GitHub Badge">
+
+# 💫 About Me:
+- 🔭 I’m currently pursuing Full Stack Web Development
+- 🌱 I’m currently learning at Masai
+- 📄 Check out my <a href="https://drive.google.com/file/d/1JZkdMscmeM5vQRFoC0Gv97DLTOvN55wC/view?usp=sharing" target="_blank" >Resume</a>
+- 💻 Know more about me <a href="https://narender24681.github.io/" target="_blank"  >Portfolio</a>
+- 💬 Ask me about *HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJs, MongoDB*
+- 📫 How to reach me **narender24681@gmail.com**
 
 
-<!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=chiranjeev-thapliyal">
-</a> -->
-<!-- <a href="https://github.com/chiranjeev-thapliyal?tab=followers"></a> -->
+<br/>
+<br/>
 
-<!--
-**narender24681/narender24681** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/narender-ch-7b4b9024b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="LinkedIn">
+</a>
+<a href="https://narender24681.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" align="center" alt="Portfolio">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br/>
+<br/>
+
+
+# 🧑‍💻 Tech Stack:
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
+<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
+<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" align="center" alt="react">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
+
+
+<br/>
+<br/>
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=narender24681)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narender24681&layout=compact)](https://github.com/narender24681/github-readme-stats)
+
+![Narender's GitHub stats](https://github-readme-stats.vercel.app/api?username=narender24681&show_icons=true&theme=transparent)
