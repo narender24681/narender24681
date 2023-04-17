@@ -10,11 +10,9 @@
 - 🔭 I’m currently pursuing Full Stack Web Development
 - 🌱 I’m currently learning at Masai
 - 📄 Check out my <a href="https://drive.google.com/file/d/1JZkdMscmeM5vQRFoC0Gv97DLTOvN55wC/view?usp=sharing" target="_blank" >Resume</a>
-<!-- - 💻 Know more about me [Portfolio](https://narender24681.github.io/) -->
+- 💻 Know more about me <a href="https://narender24681.github.io/" target="_blank">Portfolio</a>
 - 💬 Ask me about *HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJs, MongoDB*
 - 📫 How to reach me **narender24681@gmail.com**
-
- > [Portfolio](https://narender24681.github.io/)
 
 <br/>
 
